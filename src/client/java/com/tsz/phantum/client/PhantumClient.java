@@ -96,7 +96,7 @@ public class PhantumClient implements ClientModInitializer {
                                     )
                             )
                     )
-                    .then(literal("enable_log")
+                    .then(literal("log")
                             .executes(context -> {
                                 if (LOG) {
                                     LOG = false;
