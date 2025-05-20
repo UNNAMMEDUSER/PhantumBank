@@ -1,0 +1,50 @@
+/time set noon
+/banking login MirchikM 1
+/banking login MirchikM a
+/banking get
+/banking login MirchikM a
+/banking pay 4 1000
+/banking get
+/banking pay 4 1000
+/banking get
+/banking pay 4 322
+/banking pay 4 12
+/banking login MirchikM a
+/banking pay 4 10
+/banking login MirchikM a
+/banking login MirchikM 1
+/banking login MirchikM a
+/banking get
+/banking pay 4 1000
+/banking get
+/banking pay 4 1354
+/banking login MirchikM a
+/banking pay 4 1354
+/banking login MirchikM 1
+/banking login MirchikM a
+/banking get
+/banking pay 4 100
+/banking get
+/banking login MirchikM a
+/banking login 1 1
+/banking login MirchikM Fwei1AS21
+/banking get
+/banking login MirchikM Fwei1AS21
+/banking get
+/banking login MirchikM Fwei1AS21
+/banking get
+/banking login MirchikM Fwei1AS21
+/banking get
+/banking login MirchikM Fwei1AS21
+/gamerule doDaylightCycle false
+/gamerule doWeatherCycle false
+/time set noon
+/banking login MirchikM Fwei1AS21
+/banking pay 6 10 2
+/banking login MirchikM Fwei1AS21
+/banking pay 6 10 2
+/banking login MirchikM Fwei1AS21
+/banking pay 6 10 2
+/banking pay 6 10 3
+/banking login MirchikM Fwei1AS21
+/banking pay 6 10 3
